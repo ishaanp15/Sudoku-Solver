@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku_Solver.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku_Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku/Sudoku_Solver.Sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku/Sudoku_Solver.Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sudoku_Solver.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sudoku_Solver.app.iml" />
+    </modules>
+  </component>
+</project>
